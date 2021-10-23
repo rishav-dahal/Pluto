@@ -1,2 +1,2 @@
 # Pluto
-bunch of nerd trying to learn new skills
+Bunch of nerds trying to learn new skills
